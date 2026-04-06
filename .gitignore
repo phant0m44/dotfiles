@@ -1,0 +1,14 @@
+# Секрети
+**/secrets*
+**/credentials*
+**/*.key
+**/*.pem
+**/cookies*
+
+# Кеш
+**/__pycache__/
+**/.cache/
+**/cache/
+
+# Логи
+**/*.log
