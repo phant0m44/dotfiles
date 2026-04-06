@@ -38,15 +38,6 @@ cd ~/dotfiles && ./install.sh
 hyprctl reload
 ```
 
-## Update
-
-After making changes to your configs:
-```bash
-cd ~/dotfiles
-git add .
-git commit -m "update configs"
-git push
-```
 
 ## Notes
 
